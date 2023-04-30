@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\bin\Debug\MiniorskaZadacha.exe.config
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\bin\Debug\MiniorskaZadacha.exe
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\bin\Debug\MiniorskaZadacha.pdb
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\obj\Debug\MiniorskaZadacha.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\obj\Debug\MiniorskaZadacha.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\obj\Debug\MiniorskaZadacha.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\obj\Debug\MiniorskaZadacha.exe
+D:\Програмиране\new tasks\Rechnici\MiniorskaZadacha\obj\Debug\MiniorskaZadacha.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\Rechnici\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\Програмиране\new tasks\Rechnici\SuperMarket\bin\Debug\SuperMarket.exe
+D:\Програмиране\new tasks\Rechnici\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\Програмиране\new tasks\Rechnici\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\Rechnici\SuperMarket\obj\Debug\SuperMarket.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\Rechnici\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\Rechnici\SuperMarket\obj\Debug\SuperMarket.exe
+D:\Програмиране\new tasks\Rechnici\SuperMarket\obj\Debug\SuperMarket.pdb

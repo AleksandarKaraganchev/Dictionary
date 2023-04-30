@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\bin\Debug\NechetniSreshtaniq.exe.config
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\bin\Debug\NechetniSreshtaniq.exe
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\bin\Debug\NechetniSreshtaniq.pdb
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\obj\Debug\NechetniSreshtaniq.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\obj\Debug\NechetniSreshtaniq.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\obj\Debug\NechetniSreshtaniq.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\obj\Debug\NechetniSreshtaniq.exe
+D:\Програмиране\new tasks\Rechnici\NechetniSreshtaniq\obj\Debug\NechetniSreshtaniq.pdb

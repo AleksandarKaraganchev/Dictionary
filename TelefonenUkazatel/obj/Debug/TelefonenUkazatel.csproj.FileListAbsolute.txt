@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.exe.config
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.exe
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.pdb
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.exe
+D:\Програмиране\new tasks\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.pdb
